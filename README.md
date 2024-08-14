@@ -132,4 +132,4 @@ Thank you @wslyvh 🙏
 
 <hr/>
 
-Copyright 2023 [Kames Geraghty](https://twitter.com/KamesGeraghty)
+Copyright 2024 [Kames Geraghty](https://twitter.com/KamesGeraghty)
